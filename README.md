@@ -7,4 +7,4 @@ I wrote game logic and code to create the tokens and gameboard, initialize the g
 
 Project guidlines, stylesheets, and SVG objects were provided by TeamTreehouse.
 
-This app is currently hosted at www.biscuitmapping.com
+
